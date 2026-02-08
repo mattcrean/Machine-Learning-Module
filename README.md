@@ -14,7 +14,7 @@ Test 1 - Applied Data Analysis & Time Series Exploration (97%)
 Key skills: data wrangling, exploratory analysis, time-based aggregation, feature engineering
 
 Test 2 - Supervised Learning from First Principles & Pipelines (75%)
-- Implementation of empirical risk minimisation under L¹ loss
+- Implementation of empirical risk minimisation under $L^1$ loss
 - Manual implementation of k-nearest neighbours (kNN) with a custom distance metric and deterministic tie-breaking
 - Supervised classification on real astronomical data
 - Use of scikit-learn pipelines with feature standardisation
@@ -24,7 +24,7 @@ Key skills: supervised learning theory, algorithm implementation, model evaluati
 
 Test 3 - Regularisation, Text Classification & Time Series Prediction (79%)
 - Implementation of iterative thresholding algorithms for sparse regression (LASSO-style feature selection)
-- Model evaluation using coefficient of determination (R²)
+- Model evaluation using coefficient of determination ($R^2$)
 - Text classification using bag-of-words representations and gradient-boosted classifiers
 - Predictive modelling of financial time series (GBP/EUR and GBP/USD exchange rates)
 - Construction of regression-based models to forecast next-day prices under time and performance constraints
